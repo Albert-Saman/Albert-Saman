@@ -25,7 +25,7 @@ I specialize in the full development lifecycle for embedded systems, digital des
 | **DSP** | Basic Signal Processing (Filtering, FFT) | 
 | **Control & Signal Simulators** | MATLAB, Simulink |
 
-📞 Let's Connect
+## 📞 Let's Connect
 
 I'm always open to discussing new hardware challenges, open-source collaboration, or career opportunities.
 
